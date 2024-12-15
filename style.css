@@ -41,8 +41,8 @@ body {
 }
 
 .input-box input {
-    width: 100%;
-    height: 100%;
+    width: 73%px;
+    height: 73%px;
     background: transparent;
     border: none;
     outline: none;
@@ -69,7 +69,7 @@ body {
     display: flex;
     justify-content: space-between;
     font-size: 14.5px;
-    margin: -15px 0 15px;
+    margin: -15px 0 20px;
 }
 
 .persetujuan label input {
@@ -79,7 +79,7 @@ body {
 
 
 .wrapper .btn {
-    width: 100%;
+    width: 73%;
     height: 45px;
     background: #fff;
     border: none;
@@ -100,7 +100,7 @@ body {
 }
 
 .submit-text {
-    width: 500px;
+    width: 73%px;
     background: transparent;
     border: 5px solid rgba(255, 255, 255, .2);
     backdrop-filter: blur(20px);
@@ -120,11 +120,13 @@ body {
 .submit-text .berhasil {
     font-size: 20px;
     padding: 10px 10px;
+    color: #ffffff;
 }
 
 .submit-text .link-wa {
     font-size: 15px;
     padding: 10px 10px;
+    color: #ffffff;
 }
 
 .submit-text .link-asli {
