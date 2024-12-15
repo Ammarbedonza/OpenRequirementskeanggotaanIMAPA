@@ -50,7 +50,7 @@ body {
     border-radius: 40px;
     font-size: 16px;
     color: #fff;
-    padding: 20px 45px 20px 20px;
+    padding: 25px 45px 30px 20px;
 }
 
 .input-box input::placeholder {
@@ -99,14 +99,12 @@ body {
     border-radius: 8px;
 }
 
-.wrapper .btn
-
 .submit-text {
     width: 500px;
     background: transparent;
-    border: 2px solid rgba(255, 255, 255, .2);
+    border: 5px solid rgba(255, 255, 255, .2);
     backdrop-filter: blur(20px);
-    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    box-shadow: 0 5px 10px rgba(0, 0, .1, .2);
     color: #fff;
     border-radius: 10px;
     padding: 30px 40px;
